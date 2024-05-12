@@ -1,4 +1,4 @@
-/fiap-postech-infra-fastfood/.idea/
+.idea/
 /infra/.terraform/
 /infra/.terraform.lock.hcl
 .DS_Store
