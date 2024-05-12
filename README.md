@@ -38,10 +38,10 @@ Tecnologias utilizadas:
 ### Rodando com CICD e infra descentralizada
 
 Compõe esta entrega:
-* Repositório da Lambda de Autenticação - https://github.com/GHBAlbuquerque/fiap-postech-lambda-auth-fastfood
-* Repositório da Infra - https://github.com/GHBAlbuquerque/fiap-postech-infra-fastfood
-* Repositório da Database - https://github.com/GHBAlbuquerque/fiap-postech-infra-database
-* Repositório da App - https://github.com/GHBAlbuquerque/fiap-postech-fastfood
+* Repositório da Lambda de Autenticação - https://github.com/diegosilveirabr/fiap-lambda
+* Repositório da Infra - https://github.com/diegosilveirabr/fiap-infra-k8s-terraform
+* Repositório da Database - https://github.com/diegosilveirabr/fiap-infra-db-terraform
+* Repositório da App - https://github.com/diegosilveirabr/fiap
 
 
 Faça o download ou clone este projeto e abra em uma IDE (preferencialmente IntelliJ).
